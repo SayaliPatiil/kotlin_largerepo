@@ -26,6 +26,43 @@ class AccountManagerImpl(
 
     companion object {
         const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+        const val USER_TOKEN_KEY = "user_token"
+         const val USER_TOKEN_KEY = "user_token"
+         const val USER_TOKEN_KEY = "user_token"
+         const val USER_TOKEN_KEY = "user_token"
+         const val USER_TOKEN_KEY = "user_token"
+         const val USER_TOKEN_KEY = "user_token"
+         const val USER_TOKEN_KEY = "user_token" 
+        
+        
+       
+        
     }
 
 }
